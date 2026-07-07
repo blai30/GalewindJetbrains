@@ -3,3 +3,8 @@
 .intellijPlatform
 .qodana
 build
+
+caches/
+daemon/
+native/
+dists/
