@@ -145,8 +145,7 @@
       "Button.selectedBackground": "rose800"
     },
     "Tree": {
-      "hash": "zinc700",
-      "selectionInactiveForeground": "zinc50"
+      "hash": "zinc700"
     }
   }
 }
