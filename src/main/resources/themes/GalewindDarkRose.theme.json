@@ -3,6 +3,7 @@
   "editorScheme": "themes/GalewindDarkRose.xml",
   "author": "blai30",
   "dark": true,
+  "parentTheme": "ExperimentalDark",
   "colors": {
     "rose50": "#FFF1F2",
     "rose100": "#FFE4E6",
@@ -210,7 +211,7 @@
     "TabbedPane": {
       "contentAreaColor": "zinc800",
       "hoverColor": "zinc800",
-      "focusColor": "rose900",
+      "focusColor": "zinc700",
       "underlineColor": "rose500",
       "disabledUnderlineColor": "zinc600"
     },
@@ -258,9 +259,9 @@
       "Checkbox.Border.Default.Dark": "#71717A",
       "Checkbox.Border.Disabled.Dark": "#52525B",
       "Checkbox.Border.Selected.Dark": "#BE123C",
-      "Checkbox.Focus.Thin.Default.Dark": "#BE123C",
+      "Checkbox.Focus.Thin.Default.Dark": "#71717A",
       "Checkbox.Focus.Thin.Selected.Dark": "#BE123C",
-      "Checkbox.Focus.Wide.Dark": "#881337",
+      "Checkbox.Focus.Wide.Dark": "#3F3F46",
       "Checkbox.Foreground.Disabled.Dark": "#52525B",
       "Checkbox.Foreground.Selected.Dark": "#FAFAFA",
       "Tree.iconColor.Dark": "#71717A"
