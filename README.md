@@ -4,6 +4,10 @@
 [![Version](https://img.shields.io/jetbrains/plugin/v/24303-galewind-theme.svg)](https://plugins.jetbrains.com/plugin/24303-galewind-theme)
 [![Downloads](https://img.shields.io/jetbrains/plugin/d/24303-galewind-theme.svg)](https://plugins.jetbrains.com/plugin/24303-galewind-theme)
 
+<!-- Plugin description -->
+Port of the [Galewind Theme](https://github.com/blai30/galewind-theme) from VS Code, with four accent/background combinations: Dark Rose, Dark Sky, Black Rose, and Black Sky.
+<!-- Plugin description end -->
+
 ## Installation
 
 - Using the IDE built-in plugin system:
@@ -16,13 +20,22 @@
   Download the [latest release](https://github.com/blai30/galewind-jetbrains/releases/latest) and install it manually using
   <kbd>Settings/Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>⚙️</kbd> > <kbd>Install plugin from disk...</kbd>
 
-## Galewind Dark
+## Themes
 
-<img src="https://github.com/blai30/galewind-jetbrains/blob/main/screenshot_dark.png?raw=true" alt="dark">
+Four variants are available, combining two backgrounds (Dark, Black) with two accents (Rose, Sky):
 
-## Galewind Black
+- Galewind Dark Rose
+- Galewind Dark Sky
+- Galewind Black Rose
+- Galewind Black Sky
 
-<img src="https://github.com/blai30/galewind-jetbrains/blob/main/screenshot_black.png?raw=true" alt="black">
+## Galewind Dark Rose
+
+<img src="https://github.com/blai30/galewind-jetbrains/blob/main/screenshot_dark.png?raw=true" alt="dark rose">
+
+## Galewind Black Rose
+
+<img src="https://github.com/blai30/galewind-jetbrains/blob/main/screenshot_black.png?raw=true" alt="black rose">
 
 
 ---

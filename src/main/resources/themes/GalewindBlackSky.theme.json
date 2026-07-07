@@ -1,20 +1,20 @@
 {
-  "name": "Galewind Black",
-  "editorScheme": "themes/GalewindBlack.xml",
+  "name": "Galewind Black Sky",
+  "editorScheme": "themes/GalewindBlackSky.xml",
   "author": "blai30",
   "dark": true,
   "colors": {
-    "rose50": "#FFF1F2",
-    "rose100": "#FFE4E6",
-    "rose200": "#FECDD3",
-    "rose300": "#FDA4AF",
-    "rose400": "#FB7185",
-    "rose500": "#F43F5E",
-    "rose600": "#E11D48",
-    "rose700": "#BE123C",
-    "rose800": "#9F1239",
-    "rose900": "#881337",
-    "rose950": "#4C0519",
+    "sky50": "#F0F9FF",
+    "sky100": "#E0F2FE",
+    "sky200": "#BAE6FD",
+    "sky300": "#7DD3FC",
+    "sky400": "#38BDF8",
+    "sky500": "#0EA5E9",
+    "sky600": "#0284C7",
+    "sky700": "#0369A1",
+    "sky800": "#075985",
+    "sky900": "#0C4A6E",
+    "sky950": "#082F49",
     "zinc50": "#F4F4F5",
     "zinc100": "#E4E4E7",
     "zinc200": "#D4D4D8",
@@ -36,25 +36,25 @@
       "foreground": "zinc100",
       "borderColor": "zinc800",
       "disabledBorderColor": "zinc600",
-      "caretForeground": "rose200",
+      "caretForeground": "sky200",
       "separatorColor": "zinc700",
-      "underlineColor": "rose500",
+      "underlineColor": "sky500",
       "inactiveBackground": "zinc900",
       "inactiveForeground": "zinc400",
       "inactiveUnderlineColor": "zinc600",
-      "selectionBackground": "rose800",
+      "selectionBackground": "sky800",
       "selectionInactiveBackground": "zinc800",
-      "selectionForeground": "rose50",
-      "focus": "rose900",
-      "focusColor": "rose900",
-      "focusedBorderColor": "rose300",
+      "selectionForeground": "sky50",
+      "focus": "sky900",
+      "focusColor": "sky900",
+      "focusedBorderColor": "sky300",
       "hoverBackground": "zinc800",
-      "hoverForeground": "rose500",
+      "hoverForeground": "sky500",
       "hoverBorderColor": "zinc800",
       "pressedBackground": "zinc700",
       "pressedBorderColor": "zinc700",
-      "lightSelectionBackground": "rose800",
-      "lightSelectionForeground": "rose50",
+      "lightSelectionBackground": "sky800",
+      "lightSelectionForeground": "sky50",
       "lightSelectionInactiveBackground": "zinc800",
       "lightSelectionInactiveForeground":"zinc400"
     },
@@ -66,10 +66,10 @@
       "endBorderColor": "zinc600",
       "default": {
         "foreground": "zinc100",
-        "startBackground": "rose700",
-        "endBackground": "rose700",
-        "startBorderColor": "rose700",
-        "endBorderColor": "rose700"
+        "startBackground": "sky700",
+        "endBackground": "sky700",
+        "startBorderColor": "sky700",
+        "endBorderColor": "sky700"
       }
     },
     "CheckBox": {
@@ -85,19 +85,19 @@
         "background": "zinc900",
         "foreground": "zinc100"
       },
-      "selectionBackground": "rose900",
+      "selectionBackground": "sky900",
       "matchForeground": "#fcd34d"
     },
     "DragAndDrop": {
-      "borderColor": "rose700",
-      "rowBackground": "#4C051930",
+      "borderColor": "sky700",
+      "rowBackground": "#082F4930",
       "areaBackground": "zinc800",
       "areaForeground": "#BABABA"
     },
     "EditorTabs": {
       "background": "zinc900",
       "underlinedTabBackground": "zinc900",
-      "underlineColor": "rose500"
+      "underlineColor": "sky500"
     },
     "FileColor": {
       "Blue": "#BFDBFE10",
@@ -108,15 +108,15 @@
       "Yellow": "#FEF9C310"
     },
     "Link": {
-      "activeForeground": "rose400",
-      "hoverForeground": "rose400",
-      "pressedForeground": "rose400",
-      "secondaryForeground": "rose400",
-      "visitedForeground": "rose400"
+      "activeForeground": "sky400",
+      "hoverForeground": "sky400",
+      "pressedForeground": "sky400",
+      "secondaryForeground": "sky400",
+      "visitedForeground": "sky400"
     },
     "List": {
       "Button": {
-        "hoverBackground": "rose700"
+        "hoverBackground": "sky700"
       }
     },
     "MemoryIndicator": {
@@ -128,21 +128,21 @@
     },
     "NotificationsToolwindow": {
       "newNotification.background": "zinc800",
-      "newNotification.hoverBackground": "rose950"
+      "newNotification.hoverBackground": "sky950"
     },
     "Plugins": {
       "Tab": {
-        "hoverBackground": "rose800",
+        "hoverBackground": "sky800",
         "selectedBackground": "zinc900"
       },
-      "lightSelectionBackground": "rose800"
+      "lightSelectionBackground": "sky800"
     },
     "Settings.Spotlight.borderColor": "#fef08a",
     "TextField": {
       "background": "zinc950"
     },
     "ToolWindow": {
-      "Button.selectedBackground": "rose800"
+      "Button.selectedBackground": "sky800"
     },
     "Tree": {
       "hash": "zinc700",
