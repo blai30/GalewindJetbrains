@@ -132,7 +132,7 @@
       "Button.foreground": "zinc100"
     },
     "Island": {
-      "borderColor": "zinc800"
+      "borderColor": "zinc900"
     },
     "Link": {
       "activeForeground": "rose400",
@@ -148,24 +148,27 @@
       }
     },
     "MainMenu": {
-      "background": "zinc900",
+      "background": "zinc800",
       "foreground": "zinc100",
-      "selectionBackground": "zinc800",
+      "selectionBackground": "zinc700",
       "selectionForeground": "rose50",
-      "transparentSelectionBackground": "zinc800"
+      "transparentSelectionBackground": "zinc700"
     },
     "MainToolbar": {
-      "background": "zinc900",
-      "inactiveBackground": "zinc900",
+      "background": "zinc800",
+      "inactiveBackground": "zinc800",
       "borderColor": "zinc800",
-      "separatorColor": "zinc800",
-      "Icon.background": "zinc900",
-      "Icon.hoverBackground": "zinc800",
-      "Icon.pressedBackground": "zinc700",
-      "Dropdown.background": "zinc900",
-      "Dropdown.hoverBackground": "zinc800",
-      "Dropdown.pressedBackground": "zinc700",
-      "Dropdown.transparentHoverBackground": "zinc800"
+      "separatorColor": "zinc700",
+      "Icon.background": "zinc800",
+      "Icon.hoverBackground": "zinc700",
+      "Icon.pressedBackground": "zinc600",
+      "Dropdown.background": "zinc800",
+      "Dropdown.hoverBackground": "zinc700",
+      "Dropdown.pressedBackground": "zinc600",
+      "Dropdown.transparentHoverBackground": "zinc700"
+    },
+    "MainWindow": {
+      "background": "zinc800"
     },
     "MemoryIndicator": {
       "allocatedBackground": "zinc800",
@@ -198,12 +201,22 @@
       "indeterminateEndColor": "rose500",
       "trackColor": "zinc700"
     },
+    "RunWidget": {
+      "foreground": "zinc100",
+      "iconColor": "zinc300",
+      "runIconColor": "#4E9D6C",
+      "runningIconColor": "zinc50",
+      "runningBackground": "#338555",
+      "stopBackground": "#C54E58",
+      "hoverBackground": "#00000019",
+      "pressedBackground": "#00000028"
+    },
     "Settings.Spotlight.borderColor": "#fef08a",
     "Spinner": {
       "background": "zinc950"
     },
     "StatusBar": {
-      "background": "zinc900",
+      "background": "zinc800",
       "borderColor": "zinc800",
       "Widget.foreground": "zinc300",
       "Breadcrumbs.foreground": "zinc300"
@@ -224,8 +237,8 @@
       "background": "zinc950"
     },
     "TitlePane": {
-      "background": "zinc900",
-      "Button.hoverBackground": "zinc800"
+      "background": "zinc800",
+      "Button.hoverBackground": "zinc700"
     },
     "ToggleButton": {
       "onBackground": "rose600",
@@ -245,7 +258,8 @@
       "Button.selectedBackground": "rose800",
       "Header.background": "zinc900",
       "Header.inactiveBackground": "zinc900",
-      "Header.borderColor": "zinc800"
+      "Header.borderColor": "zinc800",
+      "Stripe.background": "zinc800"
     },
     "Tree": {
       "hash": "zinc700"
@@ -253,17 +267,15 @@
   },
   "icons": {
     "ColorPalette": {
-      "Checkbox.Background.Default.Dark": "#3F3F46",
-      "Checkbox.Background.Disabled.Dark": "#27272A",
-      "Checkbox.Background.Selected.Dark": "#BE123C",
-      "Checkbox.Border.Default.Dark": "#71717A",
-      "Checkbox.Border.Disabled.Dark": "#52525B",
-      "Checkbox.Border.Selected.Dark": "#BE123C",
-      "Checkbox.Focus.Thin.Default.Dark": "#71717A",
-      "Checkbox.Focus.Thin.Selected.Dark": "#BE123C",
-      "Checkbox.Focus.Wide.Dark": "#3F3F46",
-      "Checkbox.Foreground.Disabled.Dark": "#52525B",
-      "Checkbox.Foreground.Selected.Dark": "#FAFAFA",
+      "Checkbox.Background.Default": "#3F3F46",
+      "Checkbox.Background.Disabled": "#27272A",
+      "Checkbox.Background.Selected": "#BE123C",
+      "Checkbox.Border.Default": "#71717A",
+      "Checkbox.Border.Disabled": "#52525B",
+      "Checkbox.Border.Selected": "#BE123C",
+      "Checkbox.Focus.Wide": "#3F3F46",
+      "Checkbox.Foreground.Disabled": "#52525B",
+      "Checkbox.Foreground.Selected": "#FAFAFA",
       "Tree.iconColor.Dark": "#71717A"
     }
   }

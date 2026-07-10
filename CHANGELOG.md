@@ -2,7 +2,7 @@
 
 # Galewind Theme Changelog
 
-## [Unreleased]
+## [1.3.0] - 2025-07-11
 
 ### Added
 
@@ -10,4 +10,7 @@
 - `Galewind Dark Sky` and `Galewind Black Sky` theme variants, matching the Sky accent added upstream
 - Renamed `Galewind Dark` and `Galewind Black` to `Galewind Dark Rose` and `Galewind Black Rose` for consistency with the four upstream variants
 
+## [Unreleased]
+
 [Unreleased]: https://github.com/blai30/galewind-jetbrains/commits/main
+[1.3.0]: https://github.com/blai30/galewind-jetbrains/compare/v1.2.0...v1.3.0
