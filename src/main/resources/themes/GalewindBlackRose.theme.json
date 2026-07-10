@@ -70,7 +70,7 @@
       "startBorderColor": "zinc600",
       "endBorderColor": "zinc600",
       "focusedBorderColor": "rose300",
-      "shadowColor": "transparent",
+      "shadowColor": "#00000000",
       "default": {
         "foreground": "zinc100",
         "startBackground": "rose700",
@@ -85,7 +85,6 @@
     "ComboBox": {
       "background": "zinc900",
       "nonEditableBackground": "zinc950",
-      "disabledBackground": "zinc900",
       "disabledForeground": "zinc500",
       "ArrowButton.background": "zinc950",
       "ArrowButton.nonEditableBackground": "zinc950",
@@ -152,22 +151,16 @@
       }
     },
     "MainMenu": {
-      "background": "zinc800",
-      "foreground": "zinc100",
       "selectionBackground": "zinc700",
       "selectionForeground": "rose50",
       "transparentSelectionBackground": "zinc700"
     },
     "MainToolbar": {
       "background": "zinc850",
-      "inactiveBackground": "zinc850",
       "borderColor": "zinc850",
       "separatorColor": "zinc700",
       "Icon.background": "zinc850",
-      "Icon.hoverBackground": "zinc700",
       "Icon.pressedBackground": "zinc600",
-      "Dropdown.background": "zinc850",
-      "Dropdown.hoverBackground": "zinc700",
       "Dropdown.pressedBackground": "zinc600",
       "Dropdown.transparentHoverBackground": "zinc700"
     },
