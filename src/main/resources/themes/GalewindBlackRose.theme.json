@@ -25,6 +25,7 @@
     "zinc600": "#3F3F46",
     "zinc700": "#27272A",
     "zinc800": "#18181B",
+    "zinc850": "#0C0C0E",
     "zinc900": "#000000",
     "zinc950": "#000000"
   },
@@ -58,6 +59,9 @@
       "lightSelectionForeground": "rose50",
       "lightSelectionInactiveBackground": "zinc800",
       "lightSelectionInactiveForeground":"zinc400"
+    },
+    "ActionButton": {
+      "hoverBackground": "zinc600"
     },
     "Borders.color": "zinc800",
     "Button": {
@@ -155,20 +159,20 @@
       "transparentSelectionBackground": "zinc700"
     },
     "MainToolbar": {
-      "background": "zinc800",
-      "inactiveBackground": "zinc800",
-      "borderColor": "zinc800",
+      "background": "zinc850",
+      "inactiveBackground": "zinc850",
+      "borderColor": "zinc850",
       "separatorColor": "zinc700",
-      "Icon.background": "zinc800",
+      "Icon.background": "zinc850",
       "Icon.hoverBackground": "zinc700",
       "Icon.pressedBackground": "zinc600",
-      "Dropdown.background": "zinc800",
+      "Dropdown.background": "zinc850",
       "Dropdown.hoverBackground": "zinc700",
       "Dropdown.pressedBackground": "zinc600",
       "Dropdown.transparentHoverBackground": "zinc700"
     },
     "MainWindow": {
-      "background": "zinc800"
+      "background": "zinc850"
     },
     "MemoryIndicator": {
       "allocatedBackground": "zinc800",
@@ -179,7 +183,7 @@
       "disabledForeground": "zinc500"
     },
     "Notification": {
-      "background": "zinc800"
+      "background": "zinc850"
     },
     "NotificationsToolwindow": {
       "newNotification.background": "zinc800",
@@ -206,8 +210,8 @@
       "iconColor": "zinc300",
       "runIconColor": "#4E9D6C",
       "runningIconColor": "zinc50",
-      "runningBackground": "#338555",
-      "stopBackground": "#C54E58",
+      "runningBackground": "#386440",
+      "stopBackground": "#943B42",
       "hoverBackground": "#00000019",
       "pressedBackground": "#00000028"
     },
@@ -216,8 +220,8 @@
       "background": "zinc950"
     },
     "StatusBar": {
-      "background": "zinc800",
-      "borderColor": "zinc800",
+      "background": "zinc850",
+      "borderColor": "zinc850",
       "Widget.foreground": "zinc300",
       "Breadcrumbs.foreground": "zinc300"
     },
@@ -237,7 +241,7 @@
       "background": "zinc950"
     },
     "TitlePane": {
-      "background": "zinc800",
+      "background": "zinc850",
       "Button.hoverBackground": "zinc700"
     },
     "ToggleButton": {
@@ -255,11 +259,12 @@
       "borderColor": "zinc700"
     },
     "ToolWindow": {
+      "Button.hoverBackground": "zinc600",
       "Button.selectedBackground": "rose800",
       "Header.background": "zinc900",
       "Header.inactiveBackground": "zinc900",
       "Header.borderColor": "zinc800",
-      "Stripe.background": "zinc800"
+      "Stripe.background": "zinc850"
     },
     "Tree": {
       "hash": "zinc700"
